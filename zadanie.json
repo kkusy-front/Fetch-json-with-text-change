@@ -1,0 +1,14 @@
+{
+    "city": [{
+      "id": 0,
+      "name": "krakow",
+      "h1": "Mieszkasz w Krakowie? Sprawdź się w darmowym teście językowym!",
+      "p": "45% Krakowian dobrze ocenia swój angielski. A Ty? Dowiedz się rozwiązując darmowy test językowy!Po rozwiązaniu testu czeka na Ciebie super nagroda: darmowe materiały edukacyjne, dopasowane do Twojego poziomu znajomości angielskiego! Dodatkowo otrzymasz od nas także raport językowy dla Krakowa. Niezależnie o wyniku pamiętaj jedno — Tutlo jest dla każdego!"
+    }, {
+      "id": 1,
+      "name": "warszawa",
+      "h1": "Mieszkasz w Warszawie? Sprawdź się w darmowym teście językowym!",
+      "p": "Prawie 40% Warszawiaków dobrze ocenia swój angielski. A Ty? Dowiedz się rozwiązując nasz test językowy! Po rozwiązaniu testu czeka na Ciebie super nagroda: darmowe materiały edukacyjne, dopasowane do Twojego poziomu znajomości angielskiego! Dodatkowo otrzymasz od nas także raport językowy dla Warszawy.Niezależnie o wyniku pamiętaj jedno — Tutlo jest dla każdego!"
+    }]
+}
+
